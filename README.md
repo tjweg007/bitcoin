@@ -3,7 +3,7 @@ Bitcoin Core integration/staging tree
 
 https://bitcoincore.org
 
-What is Bitcoin? yo pull this
+What is Bitcoin? yo pull that
 ----------------
 
 Bitcoin is an experimental digital currency that enables instant payments to
